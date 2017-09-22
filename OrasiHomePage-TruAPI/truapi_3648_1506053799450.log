@@ -1,0 +1,266 @@
+2017-09-22T04:16:39.480Z - debug:   TruAPI CLI started
+2017-09-22T04:16:39.954Z - debug:   load json from C:\Users\Orasi_SA\MyTrueAPI\truapi.json
+2017-09-22T04:16:39.957Z - debug:   load script {"script":"C:\\Users\\Orasi_SA\\MyTrueAPI\\orasidemo.js","testId":"localtest","groupId":"localGroup"}
+2017-09-22T04:16:39.960Z - debug:   script C:\Users\Orasi_SA\MyTrueAPI\orasidemo.js loaded
+2017-09-22T04:16:39.974Z - debug:   vusers subscribe
+2017-09-22T04:16:39.980Z - debug:   vuser 0 subscribed
+2017-09-22T04:16:39.981Z - debug:   vuser 1 subscribed
+2017-09-22T04:16:39.986Z - debug:   vuser 2 subscribed
+2017-09-22T04:16:39.988Z - debug:   vuser 3 subscribed
+2017-09-22T04:16:39.989Z - debug:   vuser 4 subscribed
+2017-09-22T04:16:39.991Z - debug:   vuser 5 subscribed
+2017-09-22T04:16:39.993Z - debug:   vuser 6 subscribed
+2017-09-22T04:16:39.998Z - debug:   vuser 7 subscribed
+2017-09-22T04:16:40.002Z - debug:   vuser 8 subscribed
+2017-09-22T04:16:40.003Z - debug:   vuser 9 subscribed
+2017-09-22T04:16:40.005Z - debug:   vusers init
+2017-09-22T04:16:40.013Z - info:    vuser 0, info[0]: Vuser 0 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.022Z - debug:   vuser 0 (Init) end
+2017-09-22T04:16:40.023Z - debug:   vuser 0, begin Action
+2017-09-22T04:16:40.025Z - info:    vuser 1, info[0]: Vuser 1 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.030Z - debug:   vuser 1 (Init) end
+2017-09-22T04:16:40.032Z - debug:   vuser 1, begin Action
+2017-09-22T04:16:40.035Z - info:    vuser 2, info[0]: Vuser 2 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.039Z - debug:   vuser 2 (Init) end
+2017-09-22T04:16:40.041Z - debug:   vuser 2, begin Action
+2017-09-22T04:16:40.043Z - info:    vuser 3, info[0]: Vuser 3 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.044Z - debug:   vuser 3 (Init) end
+2017-09-22T04:16:40.047Z - debug:   vuser 3, begin Action
+2017-09-22T04:16:40.052Z - info:    vuser 4, info[0]: Vuser 4 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.053Z - debug:   vuser 4 (Init) end
+2017-09-22T04:16:40.055Z - debug:   vuser 4, begin Action
+2017-09-22T04:16:40.056Z - info:    vuser 5, info[0]: Vuser 5 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.058Z - debug:   vuser 5 (Init) end
+2017-09-22T04:16:40.062Z - debug:   vuser 5, begin Action
+2017-09-22T04:16:40.065Z - info:    vuser 6, info[0]: Vuser 6 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.067Z - debug:   vuser 6 (Init) end
+2017-09-22T04:16:40.069Z - debug:   vuser 6, begin Action
+2017-09-22T04:16:40.071Z - info:    vuser 7, info[0]: Vuser 7 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.075Z - debug:   vuser 7 (Init) end
+2017-09-22T04:16:40.077Z - debug:   vuser 7, begin Action
+2017-09-22T04:16:40.081Z - info:    vuser 8, info[0]: Vuser 8 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.083Z - debug:   vuser 8 (Init) end
+2017-09-22T04:16:40.087Z - debug:   vuser 8, begin Action
+2017-09-22T04:16:40.089Z - info:    vuser 9, info[0]: Vuser 9 init, test url is http://www.orasi.com
+2017-09-22T04:16:40.092Z - debug:   vuser 9 (Init) end
+2017-09-22T04:16:40.097Z - debug:   vuser 9, begin Action
+2017-09-22T04:16:40.101Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:16:40.104Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:16:40.109Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:16:40.112Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:16:40.114Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:16:40.117Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:16:40.122Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:16:40.125Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:16:40.125Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:16:40.129Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:16:45.825Z - debug:   vuser 2 (Action) end
+2017-09-22T04:16:45.829Z - debug:   vuser 2, begin Action=(1)
+2017-09-22T04:16:45.847Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:16:45.859Z - debug:   vuser 8 (Action) end
+2017-09-22T04:16:45.867Z - debug:   vuser 8, begin Action=(1)
+2017-09-22T04:16:45.874Z - debug:   vuser 0 (Action) end
+2017-09-22T04:16:45.879Z - debug:   vuser 0, begin Action=(1)
+2017-09-22T04:16:45.884Z - debug:   vuser 3 (Action) end
+2017-09-22T04:16:45.886Z - debug:   vuser 3, begin Action=(1)
+2017-09-22T04:16:45.892Z - debug:   vuser 5 (Action) end
+2017-09-22T04:16:45.894Z - debug:   vuser 5, begin Action=(1)
+2017-09-22T04:16:45.902Z - debug:   vuser 7 (Action) end
+2017-09-22T04:16:45.903Z - debug:   vuser 7, begin Action=(1)
+2017-09-22T04:16:45.913Z - debug:   vuser 4 (Action) end
+2017-09-22T04:16:45.915Z - debug:   vuser 4, begin Action=(1)
+2017-09-22T04:16:45.919Z - debug:   vuser 6 (Action) end
+2017-09-22T04:16:45.926Z - debug:   vuser 6, begin Action=(1)
+2017-09-22T04:16:45.934Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:16:45.940Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:16:45.943Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:16:45.953Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:16:45.955Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:16:45.959Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:16:45.963Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:16:45.967Z - debug:   vuser 9 (Action) end
+2017-09-22T04:16:45.970Z - debug:   vuser 9, begin Action=(1)
+2017-09-22T04:16:45.977Z - debug:   vuser 1 (Action) end
+2017-09-22T04:16:45.979Z - debug:   vuser 1, begin Action=(1)
+2017-09-22T04:16:45.985Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:16:45.987Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:16:51.395Z - debug:   vuser 2 (Action) end
+2017-09-22T04:16:51.397Z - debug:   vuser 2, begin Action=(2)
+2017-09-22T04:16:51.400Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:16:51.470Z - debug:   vuser 8 (Action) end
+2017-09-22T04:16:51.472Z - debug:   vuser 8, begin Action=(2)
+2017-09-22T04:16:51.475Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:16:51.482Z - debug:   vuser 0 (Action) end
+2017-09-22T04:16:51.483Z - debug:   vuser 0, begin Action=(2)
+2017-09-22T04:16:51.487Z - debug:   vuser 3 (Action) end
+2017-09-22T04:16:51.489Z - debug:   vuser 3, begin Action=(2)
+2017-09-22T04:16:51.494Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:16:51.497Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:16:51.504Z - debug:   vuser 5 (Action) end
+2017-09-22T04:16:51.506Z - debug:   vuser 5, begin Action=(2)
+2017-09-22T04:16:51.509Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:16:51.515Z - debug:   vuser 7 (Action) end
+2017-09-22T04:16:51.516Z - debug:   vuser 7, begin Action=(2)
+2017-09-22T04:16:51.520Z - debug:   vuser 6 (Action) end
+2017-09-22T04:16:51.523Z - debug:   vuser 6, begin Action=(2)
+2017-09-22T04:16:51.529Z - debug:   vuser 4 (Action) end
+2017-09-22T04:16:51.531Z - debug:   vuser 4, begin Action=(2)
+2017-09-22T04:16:51.533Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:16:51.537Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:16:51.540Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:16:51.543Z - debug:   vuser 1 (Action) end
+2017-09-22T04:16:51.545Z - debug:   vuser 1, begin Action=(2)
+2017-09-22T04:16:51.553Z - debug:   vuser 9 (Action) end
+2017-09-22T04:16:51.554Z - debug:   vuser 9, begin Action=(2)
+2017-09-22T04:16:51.556Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:16:51.559Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:16:56.957Z - debug:   vuser 2 (Action) end
+2017-09-22T04:16:56.969Z - debug:   vuser 2, begin Action=(3)
+2017-09-22T04:16:56.973Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:16:57.008Z - debug:   vuser 8 (Action) end
+2017-09-22T04:16:57.037Z - debug:   vuser 8, begin Action=(3)
+2017-09-22T04:16:57.041Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:16:57.048Z - debug:   vuser 3 (Action) end
+2017-09-22T04:16:57.052Z - debug:   vuser 3, begin Action=(3)
+2017-09-22T04:16:57.058Z - debug:   vuser 0 (Action) end
+2017-09-22T04:16:57.061Z - debug:   vuser 0, begin Action=(3)
+2017-09-22T04:16:57.070Z - debug:   vuser 5 (Action) end
+2017-09-22T04:16:57.076Z - debug:   vuser 5, begin Action=(3)
+2017-09-22T04:16:57.081Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:16:57.085Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:16:57.091Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:16:57.104Z - debug:   vuser 7 (Action) end
+2017-09-22T04:16:57.109Z - debug:   vuser 7, begin Action=(3)
+2017-09-22T04:16:57.115Z - debug:   vuser 6 (Action) end
+2017-09-22T04:16:57.118Z - debug:   vuser 6, begin Action=(3)
+2017-09-22T04:16:57.123Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:16:57.126Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:16:57.136Z - debug:   vuser 4 (Action) end
+2017-09-22T04:16:57.139Z - debug:   vuser 4, begin Action=(3)
+2017-09-22T04:16:57.148Z - debug:   vuser 1 (Action) end
+2017-09-22T04:16:57.153Z - debug:   vuser 1, begin Action=(3)
+2017-09-22T04:16:57.166Z - debug:   vuser 9 (Action) end
+2017-09-22T04:16:57.171Z - debug:   vuser 9, begin Action=(3)
+2017-09-22T04:16:57.182Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:16:57.184Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:16:57.187Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:17:02.513Z - debug:   vuser 2 (Action) end
+2017-09-22T04:17:02.514Z - debug:   vuser 2, begin Action=(4)
+2017-09-22T04:17:02.517Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:17:02.573Z - debug:   vuser 8 (Action) end
+2017-09-22T04:17:02.576Z - debug:   vuser 8, begin Action=(4)
+2017-09-22T04:17:02.579Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:17:02.617Z - debug:   vuser 0 (Action) end
+2017-09-22T04:17:02.620Z - debug:   vuser 0, begin Action=(4)
+2017-09-22T04:17:02.622Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:17:02.630Z - debug:   vuser 5 (Action) end
+2017-09-22T04:17:02.632Z - debug:   vuser 5, begin Action=(4)
+2017-09-22T04:17:02.636Z - debug:   vuser 3 (Action) end
+2017-09-22T04:17:02.640Z - debug:   vuser 3, begin Action=(4)
+2017-09-22T04:17:02.643Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:17:02.645Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:17:02.655Z - debug:   vuser 7 (Action) end
+2017-09-22T04:17:02.658Z - debug:   vuser 7, begin Action=(4)
+2017-09-22T04:17:02.663Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:17:02.666Z - debug:   vuser 6 (Action) end
+2017-09-22T04:17:02.668Z - debug:   vuser 6, begin Action=(4)
+2017-09-22T04:17:02.670Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:17:02.706Z - debug:   vuser 4 (Action) end
+2017-09-22T04:17:02.708Z - debug:   vuser 4, begin Action=(4)
+2017-09-22T04:17:02.711Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:17:02.717Z - debug:   vuser 9 (Action) end
+2017-09-22T04:17:02.719Z - debug:   vuser 9, begin Action=(4)
+2017-09-22T04:17:02.720Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:17:02.724Z - debug:   vuser 1 (Action) end
+2017-09-22T04:17:02.729Z - debug:   vuser 1, begin Action=(4)
+2017-09-22T04:17:02.731Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:17:08.075Z - debug:   vuser 2 (Action) end
+2017-09-22T04:17:08.077Z - debug:   vuser 2, begin Action=(5)
+2017-09-22T04:17:08.080Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:17:08.111Z - debug:   vuser 8 (Action) end
+2017-09-22T04:17:08.112Z - debug:   vuser 8, begin Action=(5)
+2017-09-22T04:17:08.115Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:17:08.152Z - debug:   vuser 0 (Action) end
+2017-09-22T04:17:08.154Z - debug:   vuser 0, begin Action=(5)
+2017-09-22T04:17:08.156Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:17:08.169Z - debug:   vuser 5 (Action) end
+2017-09-22T04:17:08.171Z - debug:   vuser 5, begin Action=(5)
+2017-09-22T04:17:08.175Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:17:08.183Z - debug:   vuser 3 (Action) end
+2017-09-22T04:17:08.186Z - debug:   vuser 3, begin Action=(5)
+2017-09-22T04:17:08.189Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:17:08.194Z - debug:   vuser 7 (Action) end
+2017-09-22T04:17:08.197Z - debug:   vuser 7, begin Action=(5)
+2017-09-22T04:17:08.200Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:17:08.205Z - debug:   vuser 6 (Action) end
+2017-09-22T04:17:08.207Z - debug:   vuser 6, begin Action=(5)
+2017-09-22T04:17:08.211Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:17:08.236Z - debug:   vuser 4 (Action) end
+2017-09-22T04:17:08.238Z - debug:   vuser 4, begin Action=(5)
+2017-09-22T04:17:08.240Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:17:08.260Z - debug:   vuser 9 (Action) end
+2017-09-22T04:17:08.262Z - debug:   vuser 9, begin Action=(5)
+2017-09-22T04:17:08.264Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:17:08.271Z - debug:   vuser 1 (Action) end
+2017-09-22T04:17:08.273Z - debug:   vuser 1, begin Action=(5)
+2017-09-22T04:17:08.275Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:17:15.989Z - debug:   vuser 2 (Action) end
+2017-09-22T04:17:15.990Z - debug:   vuser 2, begin Action=(6)
+2017-09-22T04:17:15.991Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:17:15.996Z - debug:   vuser 5 (Action) end
+2017-09-22T04:17:15.996Z - debug:   vuser 5, begin Action=(6)
+2017-09-22T04:17:16.003Z - debug:   vuser 4 (Action) end
+2017-09-22T04:17:16.005Z - debug:   vuser 4, begin Action=(6)
+2017-09-22T04:17:16.012Z - debug:   vuser 8 (Action) end
+2017-09-22T04:17:16.014Z - debug:   vuser 8, begin Action=(6)
+2017-09-22T04:17:16.020Z - debug:   vuser 3 (Action) end
+2017-09-22T04:17:16.022Z - debug:   vuser 3, begin Action=(6)
+2017-09-22T04:17:16.028Z - debug:   vuser 9 (Action) end
+2017-09-22T04:17:16.029Z - debug:   vuser 9, begin Action=(6)
+2017-09-22T04:17:16.035Z - debug:   vuser 7 (Action) end
+2017-09-22T04:17:16.037Z - debug:   vuser 7, begin Action=(6)
+2017-09-22T04:17:16.043Z - debug:   vuser 1 (Action) end
+2017-09-22T04:17:16.045Z - debug:   vuser 1, begin Action=(6)
+2017-09-22T04:17:16.049Z - debug:   vuser 6 (Action) end
+2017-09-22T04:17:16.051Z - debug:   vuser 6, begin Action=(6)
+2017-09-22T04:17:16.054Z - debug:   vuser 0 (Action) end
+2017-09-22T04:17:16.055Z - debug:   vuser 0, begin Action=(6)
+2017-09-22T04:17:16.056Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:17:16.058Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:17:16.060Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:17:16.061Z - info:    vuser 3, info[0]: Vuser 3 running
+2017-09-22T04:17:16.062Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:17:16.063Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:17:16.064Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:17:16.064Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:17:16.066Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:17:21.544Z - debug:   vuser 2 (Action) end
+2017-09-22T04:17:21.546Z - debug:   vuser 2, begin Action=(7)
+2017-09-22T04:17:21.547Z - info:    vuser 2, info[0]: Vuser 2 running
+2017-09-22T04:17:21.603Z - debug:   vuser 5 (Action) end
+2017-09-22T04:17:21.605Z - debug:   vuser 5, begin Action=(7)
+2017-09-22T04:17:21.606Z - info:    vuser 5, info[0]: Vuser 5 running
+2017-09-22T04:17:21.622Z - debug:   vuser 9 (Action) end
+2017-09-22T04:17:21.624Z - debug:   vuser 9, begin Action=(7)
+2017-09-22T04:17:21.626Z - info:    vuser 9, info[0]: Vuser 9 running
+2017-09-22T04:17:21.632Z - debug:   vuser 7 (Action) end
+2017-09-22T04:17:21.634Z - debug:   vuser 7, begin Action=(7)
+2017-09-22T04:17:21.638Z - debug:   vuser 8 (Action) end
+2017-09-22T04:17:21.640Z - debug:   vuser 8, begin Action=(7)
+2017-09-22T04:17:21.645Z - debug:   vuser 6 (Action) end
+2017-09-22T04:17:21.646Z - debug:   vuser 6, begin Action=(7)
+2017-09-22T04:17:21.650Z - debug:   vuser 4 (Action) end
+2017-09-22T04:17:21.654Z - debug:   vuser 4, begin Action=(7)
+2017-09-22T04:17:21.659Z - debug:   vuser 0 (Action) end
+2017-09-22T04:17:21.661Z - debug:   vuser 0, begin Action=(7)
+2017-09-22T04:17:21.665Z - debug:   vuser 1 (Action) end
+2017-09-22T04:17:21.668Z - debug:   vuser 1, begin Action=(7)
+2017-09-22T04:17:21.675Z - debug:   vuser 3 (Action) end
+2017-09-22T04:17:21.676Z - debug:   vuser 3, begin Action=(7)
+2017-09-22T04:17:21.678Z - info:    vuser 7, info[0]: Vuser 7 running
+2017-09-22T04:17:21.680Z - info:    vuser 8, info[0]: Vuser 8 running
+2017-09-22T04:17:21.681Z - info:    vuser 6, info[0]: Vuser 6 running
+2017-09-22T04:17:21.688Z - info:    vuser 4, info[0]: Vuser 4 running
+2017-09-22T04:17:21.691Z - info:    vuser 0, info[0]: Vuser 0 running
+2017-09-22T04:17:21.693Z - info:    vuser 1, info[0]: Vuser 1 running
+2017-09-22T04:17:21.697Z - info:    vuser 3, info[0]: Vuser 3 running
