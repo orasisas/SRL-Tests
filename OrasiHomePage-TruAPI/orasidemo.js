@@ -32,18 +32,18 @@ exports = module.exports = function (vuser) {
       svc.request(requestOptions, function (err, res, body) {
         if (err) {
           svc.logger.error('request error %s', err.toString());
-          svc.transaction.end('urlTest', svc.transaction.FAIL);
+          svc.transaction.end('OrasiHomePage', svc.transaction.FAIL);
           done();
           return;
         }
 
-        svc.transaction.end('urlTest', svc.transaction.PASS);
+        svc.transaction.end('OrasiHomePage', svc.transaction.PASS);
         done();
       });
     }
 
-    svc.transaction.start('urlTest');
-    svc.transaction.thinkTime('urlTest', 1000 * 5, function () {
+    svc.transaction.start('OrasiHomePage');
+    svc.transaction.thinkTime('OrasiHomePage', 1000 * 5, function () {
       sendRequest();
     });
   });
